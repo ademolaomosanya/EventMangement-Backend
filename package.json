@@ -1,0 +1,23 @@
+{
+  "name": "eventmangement-backend",
+  "version": "1.0.0",
+  "description": "Backend for event management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ademolaomosanya/EventMangement-Backend.git"
+  },
+  "author": "Ademola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ademolaomosanya/EventMangement-Backend/issues"
+  },
+  "homepage": "https://github.com/ademolaomosanya/EventMangement-Backend#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
